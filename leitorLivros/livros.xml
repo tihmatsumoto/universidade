@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livros >
+	<livro editora="Kodansha">
+		<titulo>Java 6.0</titulo>
+		<autor>Ricardo Assuncao</autor>
+		<genero>Tecnico</genero>
+		<preco>75.50</preco>
+		<estoque>12</estoque>
+	</livro>
+	<livro editora="Informa">
+		<titulo>VB.Net</titulo>
+		<autor>Jose Silveira</autor>
+		<genero>Tecnico</genero>
+		<preco>68.25</preco>
+		<estoque>15</estoque>		
+	</livro>
+	<livro editora="Kodansha">
+		<titulo>A Carochinha</titulo>
+		<autor>Maria de Paula</autor>
+		<genero>Infantil</genero>
+		<preco>15.00</preco>
+		<estoque>25</estoque>		
+	</livro>
+	<livro editora="Wolters Kluwer">
+		<titulo>A Lua e o Sol</titulo>
+		<autor>Manoela Ribeiro</autor>
+		<genero>Romance</genero>
+		<preco>38.70</preco>
+		<estoque>37</estoque>		
+	</livro>
+	<livro editora="Scholastic">
+		<titulo>O Futuro da Terra</titulo>
+		<autor>Gigi de Lourdes</autor>
+		<genero>Ficcao</genero>
+		<preco>48.99</preco>
+		<estoque>19</estoque>
+	</livro>
+	<livro editora="Record">
+		<titulo>Cronicas Saxonicas</titulo>
+		<autor>Bernard Cornwell</autor>
+		<genero>Romance Historico</genero>
+		<preco>68.86</preco>
+		<estoque>120</estoque>
+	</livro>
+</livros>
