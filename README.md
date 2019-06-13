@@ -1,5 +1,5 @@
 # Universidade
-University classes projects
+University projects
 
 
 ## Sistemas Distribuídos
